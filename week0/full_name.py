@@ -1,4 +1,4 @@
-def full_name(frist, last):
+def full_name(first, last):
     print(f"Your full name is {first} {last}")
 
 first = input("what's your first name? ")    
