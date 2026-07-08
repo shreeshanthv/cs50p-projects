@@ -1,5 +1,7 @@
 def square(x):
-    return x * x
+ print("x squared is", square(x))
 
 x = int(input("What's x? "))
-print("x squared is", square(x))
+def main():
+    return x * x 
+main() 
